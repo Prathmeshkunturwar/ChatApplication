@@ -1,0 +1,8 @@
+<resources>
+
+    <!-- TODO change your app's name here-->
+    <string name="app_name">ChatApplication</string>
+
+    <!-- TODO your Firebase Realtime Database URL-->
+    <string name="database_url">https://chat-app-947bd-default-rtdb.firebaseio.com/</string>
+</resources>
